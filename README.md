@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <h3 align="center">I am Fullstack Web3 Engineer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://gifer.com/embed/8mee](https://i.gifer.com/8mee.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-verma18&label=Profile%20views&color=0e75b6&style=flat" alt="yash-verma18" /> </p>
 
