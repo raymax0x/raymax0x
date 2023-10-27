@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg)
+![MasterHead](https://i.pinimg.com/564x/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg)
 
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <h3 align="center">I am Fullstack Web3 Engineer from India.</h3>
