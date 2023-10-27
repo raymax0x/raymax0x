@@ -1,28 +1,22 @@
-[![MasterHead](https://i.pinimg.com/564x/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg)](https://yash-verma18.github.io/RY/)
+![MasterHead](https://i.pinimg.com/originals/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg)
 
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <h3 align="center">I am Fullstack Web3 Engineer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/8mee.gif">
- 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-verma18&label=Profile%20views&color=0e75b6&style=flat" alt="yash-verma18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-verma18" alt="yash-verma18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/atypicalseeker" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/atypicalseeker?logo=twitter&style=for-the-badge" alt="https://twitter.com/atypicalseeker" /></a> </p>
+<p align="left"> <a href="https://twitter.com/atypicalseeker" target="blank"><img src="https://img.shields.io/twitter/follow/atypicalseeker?logo=twitter&style=for-the-badge" alt="atypicalseeker" /></a> </p>
 
 - 🔭 I’m currently working on [RTSN](https://rtsn.xyz/)
-
 - 🌱 I’m currently learning **Solidity, Smart Contract Development.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Yash-verma18](https://github.com/Yash-verma18)
-
-- 📝 I regularly write articles on [Web3, Blockchain, EVM, Solidity, Fullstack Development.](Web3, Blockchain, EVM, Solidity, Fullstack Development.)
-
+- 📝 I regularly write articles on [Web3, Blockchain, EVM, Solidity, Fullstack Development.](https://defideveloper.hashnode.dev/)
 - 💬 Ask me about **React, Nextjs, NodeJs, Mongo, Web3, Ethereum, Smart Contract**
-
 - 📫 How to reach me **vermayash1881@gmail.com**
-
 - 📄 Know about my experiences [https://yash-verma18.github.io/RY/](https://yash-verma18.github.io/RY/)
 
 ### Blogs posts
