@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFycc-lhHY/RWsQWukxpnw6sHBvb9SB0A/view?utm_content=DAFycc-lhHY&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=editor_celebratory_first_publish)](https://yash-verma18.github.io/RY/)
+[![MasterHead](https://i.pinimg.com/564x/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg)](https://yash-verma18.github.io/RY/)
 
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <h3 align="center">I am Fullstack Web3 Engineer from India.</h3>
