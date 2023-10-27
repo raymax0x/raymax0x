@@ -1,10 +1,9 @@
-![MasterHead](https://i.pinimg.com/864x/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg)
 
+<img align="right" alt="Coding" width="100%" src="https://i.pinimg.com/564x/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg">
+
+<div>
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
 <h3 align="center">I am Fullstack Web3 Engineer from India.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/cc/8a/fa/cc8afa2e04a7be398bc725630ec8ae70.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-verma18&label=Profile%20views&color=0e75b6&style=flat" alt="yash-verma18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-verma18" alt="yash-verma18" /></a> </p>
@@ -21,6 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rolling Up the Blockchain: A Guide to Layer 2 Scaling Solutions](https://defideveloper.hashnode.dev/rolling-up-the-blockchain-a-guide-to-layer-2-scaling-solutions)
+- [RESTful API](https://vermayash1881.medium.com/restful-api-a6bcdf0a21c6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -45,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-verma18&show_icons=true&locale=en" alt="yash-verma18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-verma18&" alt="yash-verma18" /></p>
+
+</div>
