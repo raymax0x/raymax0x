@@ -16,7 +16,7 @@
 - 📝 I regularly write articles on [Web3, Blockchain, EVM, Solidity, Fullstack Development.](https://defideveloper.hashnode.dev/)
 - 💬 Ask me about **React, Nextjs, NodeJs, Mongo, Web3, Ethereum, Smart Contract**
 - 📫 How to reach me **vermayash1881@gmail.com**
-- 📄 Check My Portfolio [https://yash-verma18.github.io/RY/](https://yash-verma.me/)
+- 📄 Take a look at my work [Portfolio](https://yash-verma.me/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
