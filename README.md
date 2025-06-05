@@ -13,10 +13,10 @@
   <li>💬 I speak JavaScript, Solidity, TypeScript, and... sometimes sarcasm 😎</li>
   <li>🌱 Currently seeking full-time opportunities that blend <strong>innovation + purpose</strong>.</li>
   <li>🧠 I love turning wild ideas into production-ready apps that *actually* work!</li>
-  <li>📬 Reach me anytime at: <strong>vermayash1881@gmail.com</strong></li>
+  <li>📬 Reach me anytime at: <strong>dev@yash-verma.me</strong></li>
   <li>🧩 Portfolio: <a href="https://yash-verma.me/" target="_blank">yash-verma.me</a></li>
   <li>🎥 Watch my Web3 builds on <a href="https://www.youtube.com/@RaymaxOfficial" target="_blank">YouTube</a></li>
-  <li>🐦 Active on <a href="https://twitter.com/atypicalseeker" target="_blank">X (formerly Twitter)</a></li>
+  <li>🐦 Active on <a href="https://twitter.com/raymax0x" target="_blank">X (formerly Twitter)</a></li>
 </ul>
 
 ---
