@@ -1,5 +1,5 @@
 <!-- Hero Banner -->
-<img align="right" alt="Banner" width="100%" src="https://pbs.twimg.com/profile_banners/1343622268052590592/1747811862/1080x360" />
+<img align="right" alt="Banner" width="100%" src="https://pbs.twimg.com/profile_banners/1343622268052590592/1749149855/1080x360" />
 
 <!-- Profile Views Badge -->
 <p align="left">
