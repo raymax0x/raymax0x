@@ -15,7 +15,7 @@
   <li>🧠 I love turning wild ideas into production-ready apps that *actually* work!</li>
   <li>📬 Reach me anytime at: <strong>dev@yash-verma.me</strong></li>
   <li>🧩 Portfolio: <a href="https://yash-verma.me/" target="_blank">yash-verma.me</a></li>
-  <li>🎥 Watch my Web3 builds on <a href="https://www.youtube.com/@RaymaxOfficial" target="_blank">YouTube</a></li>
+  <li>🎥 Watch my Web3 builds on <a href="https://www.youtube.com/@raymax0x" target="_blank">YouTube</a></li>
   <li>🐦 Active on <a href="https://twitter.com/raymax0x" target="_blank">X (formerly Twitter)</a></li>
 </ul>
 
@@ -24,14 +24,17 @@
 <!-- Connect With Me Section -->
 <h2 align="left">🌐 Let's Connect</h2>
 <p align="left">
-  <a href="https://twitter.com/atypicalseeker" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.youtube.com/@RaymaxOfficial" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="https://www.linkedin.com/in/yashverma1881/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://vermayash1881.medium.com/" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
+  <a href="https://twitter.com/raymax0x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/raymax0x/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.instagram.com/recognizeyourself/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.hackerrank.com/recognizeyourse1" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
-  <a href="https://www.leetcode.com/recognizeyourself" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+
+  <!-- Custom icons for unsupported platforms -->
+  <a href="https://www.youtube.com/@raymax0x" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://medium.com/@raymax0x" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/recognizeyourse1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/recognizeyourself" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
+
 
 ---
 
