@@ -10,7 +10,7 @@
 <h2 align="left">🚀 About Me</h2>
 <ul align="left">
   <li>🔭 Passionate about building cool stuff in <strong>Web3</strong>, <strong>Fullstack</strong>, and <strong>Creative Tech</strong>.</li>
-  <li>💬 I speak JavaScript, Solidity, TypeScript, and... sometimes sarcasm 😎</li>
+  <li>💬 I speak JavaScript, Solidity, TypeScript, and rust</li>
   <li>🌱 Currently seeking full-time opportunities that blend <strong>innovation + purpose</strong>.</li>
   <li>🧠 I love turning wild ideas into production-ready apps that *actually* work!</li>
   <li>📬 Reach me anytime at: <strong>dev@yash-verma.me</strong></li>
