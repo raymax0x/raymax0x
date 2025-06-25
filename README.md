@@ -17,6 +17,7 @@
   <li>🧩 Portfolio: <a href="https://yash-verma.me/" target="_blank">yash-verma.me</a></li>
   <li>🎥 Watch my Web3 builds on <a href="https://www.youtube.com/@raymax0x" target="_blank">YouTube</a></li>
   <li>🐦 Active on <a href="https://twitter.com/raymax0x" target="_blank">X (formerly Twitter)</a></li>
+   <li>🐦 Watch My highlights <a href="https://x.com/raymax0x/highlights" target="_blank"> Highlights </a></li>
 </ul>
 
 ---
